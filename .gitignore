@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.env
+data/
+*.csv
+*.npy
+stage_a_output/
+stage_a_output_mock/
