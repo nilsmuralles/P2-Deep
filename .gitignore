@@ -6,6 +6,6 @@ __pycache__/
 data/
 *.csv
 *.npy
-stage_a_output/
-stage_a_output_mock/
 C1_output_*
+!stage_a_output/*.csv
+!stage_a_output/*.npy
