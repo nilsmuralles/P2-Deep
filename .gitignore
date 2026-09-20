@@ -8,3 +8,4 @@ data/
 *.npy
 stage_a_output/
 stage_a_output_mock/
+C1_output_*
