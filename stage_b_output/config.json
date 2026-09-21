@@ -1,0 +1,6 @@
+{
+  "strategy": "fine-tuning",
+  "alpha": 1.0,
+  "threshold": 0.9620658159255981,
+  "pos_weight": 10.013257005122025
+}
